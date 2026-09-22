@@ -59,5 +59,5 @@ The dashboard connects to a Power BI semantic model built from two tables, **Ord
 ---
 *Generated from the report structure of `E-Commerce_Sales.pbix`.*
 
-![(https://github.com/Sumaiya-Kareem/E-COMMERECE/blob/main/Screenshot%202026-09-22%20103606.png)]
+! [(https://github.com/Sumaiya-Kareem/E-COMMERECE/blob/main/Screenshot%202026-09-22%20103606.png)]
 
